@@ -6,6 +6,10 @@ Job Market Trends MG is an interactive dashboard application created with Stream
 
 **Please note that this project is currently under development.**
 
+## App link
+
+Visit the app at: [https://job-market-trends-mg.streamlit.app/](https://job-market-trends-mg.streamlit.app/)
+
 ## Contact
 
 Twitter: [@Massa_Be](https://twitter.com/twitter_handle)
